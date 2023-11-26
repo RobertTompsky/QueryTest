@@ -1,0 +1,25 @@
+.post-container {
+    background-color: beige;
+    padding: 30px;
+    height: 100%;
+    border-radius: 40px;
+}
+
+.post-h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.post-p {
+    font-size: 20px;
+}
+
+.post-btn {
+    padding: 12px;
+    border: none;
+    background-color: rgb(104, 104, 60);
+    font-size: 18px;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}

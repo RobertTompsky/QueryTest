@@ -1,0 +1,8 @@
+.posts-h1 {
+    text-align: center;
+}
+
+.postsList {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
